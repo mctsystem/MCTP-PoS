@@ -1,0 +1,6 @@
+usr/local/bin/mct-qt usr/bin
+share/pixmaps/mct32.xpm usr/share/pixmaps
+share/pixmaps/mct16.xpm usr/share/pixmaps
+share/pixmaps/mct128.png usr/share/pixmaps
+debian/mct-qt.desktop usr/share/applications
+debian/mct-qt.protocol usr/share/kde4/services/
